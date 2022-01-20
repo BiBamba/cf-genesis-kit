@@ -25,7 +25,7 @@ correctly configured.
 
 As per usual with Genesis kits, you will need a Genesis deployment repository
 to contain your environment file.  If you don't already have one from a
-previous `cf` version, run `genesis init -k cf/<version>`, where <version> is
+previous `cf` version, run `genesis init -k cf/<version>`, where `<version>` is
 replaced with the current cf genesis kit version.  If you have this already,
 you'll need to download the latest copy of this kit via `genesis fetch-kit`
 from within that directory.
